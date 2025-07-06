@@ -1,2 +1,2 @@
 # XO__game_React
-Created with CodeSandbox
+my frist project in React
